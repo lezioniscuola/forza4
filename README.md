@@ -1,7 +1,7 @@
-# forza4
+# FORZ4
 
 
-*BOLLETTINO --> JOLLY, getisce il main e coordina/aiuta gli altri, assegna le variabili
+**BOLLETTINO** --> JOLLY, gestisce il main e coordina/aiuta gli altri, assegna le variabili
 
 Cortinovis --> CONTROLLO GENERALE
 
@@ -15,7 +15,7 @@ Roncelli --> CONTROLLO DIAGONALE
 
 Pica --> VISUALIZZAZIONE
 
-Luraschi --> PROGRAM TESTER
+Luraschi --> PROGRAM TESTER (compito arduo)
 
 
 
