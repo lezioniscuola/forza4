@@ -1,5 +1,24 @@
 # forza4
 
+
+*BOLLETTINO --> JOLLY, getisce il main e coordina/aiuta gli altri, assegna le variabili
+
+Cortinovis --> CONTROLLO GENERALE
+
+Silva --> RANDOM
+
+Manenti --> CONTROLLO VERTICALE
+
+Longo --> CONTROLLO ORIZZONTALE
+
+Roncelli --> CONTROLLO DIAGONALE
+
+Pica --> VISUALIZZAZIONE
+
+Luraschi --> PROGRAM TESTER
+
+
+
 Appunti: Gruppo 3
 	Realizzazione forza quattro.
 	Funzioni da realizzare:
@@ -63,4 +82,5 @@ CONTROLLO ORIZZONTALE--> verificare che i 4 gettoni inseriti siano ORIZZONTALMEN
 
 CONTROLLO DIAGONALE--> verificare che i 4 gettoni inseriti siano DIAGONALMENTE consecutivi e che siano tutti di un utente e decretare il vincitore
 
+PROGRAM TESTER--> gioca a forza quattro e verifica se tutto funziona correttamente (forse)
 
