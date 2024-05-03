@@ -24,7 +24,7 @@ Azioni in gioco
 
 
 |\|||||||||||||||||||||||||||||||||||||||||\|
-|\| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 |\|
+|\| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |\|
 |\|||||||||||||||||||||||||||||||||||||||||\|
 |\|- -|- -|- -|- -|- -|- -|- -|- -|- -|- -|\|
 |\|                                       |\|
@@ -46,11 +46,16 @@ Azioni in gioco
 
 FUNZIONI DA CREARE:
 
-VISUALIZZAZIONE-->
+DIVIDERE IN DUE MENU--> dividere il gioco in un 1 vs 1 e 1 vs RANDOM(quindi single player)
 
-SCELTA UTENTE 1 e SCELTA UTENTE 2-->
+RANDOM--> inserire un random per scegliwere quale utente inizia per prima
+          inserire un random che, se si gioca in single player, scelga ogni volta un numero da 0 a 9 (sono 10 colonne).
 
-CONTROLLO GENERALE-->
+VISUALIZZAZIONE--> visualizzare ogni volta, per ogni singola mossa la tabella aggiornata
+
+SCELTA UTENTE 1 e SCELTA UTENTE 2--> permettere all'utente (prima uno, poi l'altro) di inserire il gettone in una colonna da 0 a 9 (sono 10 colonne)
+
+CONTROLLO GENERALE--> verifichi che l'utente secondario se inserito il gettone nella colonna già scelta precedentemente non vada a sovrapporre il gettone ma ad'inserirlo in alto se presente spazio, quindi non terminato, SONO 8 RIGHE.
 
 CONTROLLO VERTICALE--> verificare che i 4 gettoni inseriti siano VERTICALMENTE consecutivi e che siano tutti di un utente e decretare il vincitore
 
