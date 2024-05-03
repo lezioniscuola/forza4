@@ -47,9 +47,15 @@ Azioni in gioco
 FUNZIONI DA CREARE:
 
 VISUALIZZAZIONE-->
-😵😵
-SCELTA UTENTE 1 e SCELTA UTENTE 2-->
-😂😂😂😂😂💕💕💕💕💕👍👍👍👍🙌🙌🙌🙌😒😒😒🎶🎶🎶🎶🎶🎶🎶😎😎😎😎😎😎😎😎😎😎😎😶😶😶🫥🫥🫥🫥🫥🫥
 
+SCELTA UTENTE 1 e SCELTA UTENTE 2-->
+
+CONTROLLO GENERALE-->
+
+CONTROLLO VERTICALE--> verificare che i 4 gettoni inseriti siano VERTICALMENTE consecutivi e che siano tutti di un utente e decretare il vincitore
+
+CONTROLLO ORIZZONTALE--> verificare che i 4 gettoni inseriti siano ORIZZONTALMENTE consecutivi e che siano tutti di un utente e decretare il vincitore
+
+CONTROLLO DIAGONALE--> verificare che i 4 gettoni inseriti siano DIAGONALMENTE consecutivi e che siano tutti di un utente e decretare il vincitore
 
 
