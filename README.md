@@ -3,7 +3,7 @@
 
 **BOLLETTINO** --> JOLLY, gestisce il main e coordina/aiuta gli altri, assegna le variabili
 
-Cortinovis --> CONTROLLO GENERALE
+Cortinovis --> CONTROLLO GENERALE con Bollettino
 
 Silva --> RANDOM
 
