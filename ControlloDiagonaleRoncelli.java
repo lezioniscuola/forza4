@@ -11,5 +11,9 @@ public class ControlloDiagonale (int giocatore) {
             for (int colonna=3;colonna<COLONNE;colonna++) {
                 if (griglia[riga][colonna]==giocatore&&griglia[riga+1][colonna-1]==giocatore&&griglia[riga+2][colonna-2]==giocatore&&griglia[riga+3][colonna-3]==giocatore){
             }
+                return true;
+            }
+        }
     }
+        return false;
 }
