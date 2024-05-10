@@ -1,8 +1,7 @@
-public class PicaVisualizzazione {
-    public static void main(String[] args) {
-        System.out.println("Hello and welcome!");
-        for (int i = 1; i <= 5; i++) {
-            System.out.println("i = " + i);
+private static void visualizzaGriglia() {
+        System.out.println("|\\|||||||||||||||||||||||||||||||||||||||||\\|");
+        System.out.print("|\\| ");
+        for (int i = 0; i < COLONNE; i++) {
+            System.out.print(i + " | ");
         }
     }
-}
