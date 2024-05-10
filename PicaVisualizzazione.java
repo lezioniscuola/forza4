@@ -12,4 +12,7 @@ private static void visualizzaGriglia() {
                 System.out.print(griglia[riga][colonna] == 0 ? "- -" : (griglia[riga][colonna] == 1 ? " X " : " O "));
                 System.out.print("|");
             }
+            System.out.println("\\|");
+            System.out.println("|\\|                                       |\\|");
+        }
     }
