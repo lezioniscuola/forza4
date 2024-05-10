@@ -1,6 +1,7 @@
 public class Random {
     public static void main(String[] args) {
-
+ int numeroRandom= NumeriRandom();
+            System.out.println("Numero casuale: " + numeroRandom);
     }
     private static int NumeriRandom() {
             Random r= new Random();
