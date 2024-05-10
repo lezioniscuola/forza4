@@ -15,4 +15,5 @@ private static void visualizzaGriglia() {
             System.out.println("\\|");
             System.out.println("|\\|                                       |\\|");
         }
+        System.out.println("|\\|||||||||||||||||||||||||||||||||||||||||\\|");
     }
